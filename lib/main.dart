@@ -125,7 +125,7 @@ class Layout extends StatelessWidget {
                           spacing: 4.0,
                           runSpacing: 2.0,
                           children: [
-                            Padding(padding: EdgeInsets.fromLTRB(0, 10, 0, 0),
+                            Padding(padding: const EdgeInsets.fromLTRB(0, 10, 0, 0),
                             child: 
                             Row(
                               mainAxisAlignment: MainAxisAlignment.center,
